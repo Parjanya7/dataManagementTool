@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+.Button{
+    text-decoration: none;
+    background: #1744FF 0% 0% no-repeat;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px #0000000D;
+    border-radius: 8px;
+    padding: 1rem 1.4rem;
+    letter-spacing: 2.1px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: 'Rubik', sans-serif;
+    border: none;
+}

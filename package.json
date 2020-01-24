@@ -1,0 +1,33 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \" cd Server && nodemon server.js \" \" cd Client && cd personalmasterdiary && npm start \" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.8.4",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.0.1",
+    "node-sass": "^4.13.0",
+    "nodemon": "^2.0.2",
+    "react-data-table-component": "^6.2.0",
+    "react-google-recaptcha": "^2.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-select": "^3.0.8",
+    "styled-components": "^4.4.1",
+    "validator": "^12.1.0"
+  }
+}

@@ -28,6 +28,6 @@
     "react-router-dom": "^5.1.2",
     "react-select": "^3.0.8",
     "styled-components": "^4.4.1",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }

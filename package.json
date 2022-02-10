@@ -21,7 +21,7 @@
     "mongoose": "^5.8.4",
     "multer": "^1.4.2",
     "multer-gridfs-storage": "^4.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "react-data-table-component": "^6.2.0",
     "react-google-recaptcha": "^2.0.1",
